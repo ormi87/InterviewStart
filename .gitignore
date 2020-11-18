@@ -1,0 +1,12 @@
+*.iml
+*/target
+*.bak
+*.tmp
+*~
+.idea
+*/dist
+*/node_modules
+*/reports
+*/npm-debug.log
+.allure
+*.log
