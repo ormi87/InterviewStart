@@ -1,4 +1,4 @@
-package com.ig.interview;
+package com.ig.interview.tasks;
 
 /**
  * Given an array of integers X check if adding 1 to any of the elements in array would make it possible to retrieve this element value
@@ -9,5 +9,5 @@ package com.ig.interview;
  * X={1,4,10}    -> return false
  */
 
-public class Task {
+public class TaskArray {
 }
